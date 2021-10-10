@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    },
+    "vscode-home-assistant.hostUrl": "192.168.86.102",
+    "vscode-home-assistant.longLivedAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI2MGJkMWM1NzE1OTg0OWYwYTVmODExYWE2NjlkNzg3NCIsImlhdCI6MTYzMzgzODcyNywiZXhwIjoxOTQ5MTk4NzI3fQ.jWa32GWYQfUXQqrRF-tWBCS-hbfpTuPgsIKJW637v6w",
+    "vscode-home-assistant.ignoreCertificates": true
+}

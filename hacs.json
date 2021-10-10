@@ -1,5 +1,5 @@
 {
-  "name": "ajLocal Tuya",
+  "name": "Local Tuya",
   "domains": ["climate", "cover", "fan", "light", "sensor", "switch"],
   "homeassistant": "0.116.0",
   "iot_class": ["Local Push"]
